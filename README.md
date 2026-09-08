@@ -8,22 +8,22 @@
 💻 Frontend
 <p> <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,sass" /> </p>
 
-⚛️ React — компоненты, Hooks, Context API, переиспользуемые решения
-🔷 TypeScript — типизация и безопасная разработка
-🟨 JavaScript (ES6+) — современный синтаксис, асинхронность, модули
-🌐 HTML5 — семантическая разметка
-🎨 CSS3 / SCSS — адаптивная верстка, анимации, CSS Modules
+⚛️ React — компоненты, Hooks, Context API, переиспользуемые решения<br/>
+🔷 TypeScript — типизация и безопасная разработка<br/>
+🟨 JavaScript (ES6+) — современный синтаксис, асинхронность, модули<br/>
+🌐 HTML5 — семантическая разметка<br/>
+🎨 CSS3 / SCSS — адаптивная верстка, анимации, CSS Modules<br/>
 
 🧠 Управление состоянием
-🐻 Zustand || 🔴 Redux / Redux Toolkit — управление состоянием
+🐻 Zustand || 🔴 Redux / Redux Toolkit — управление состоянием<br/>
 🔄 Работа с локальным и глобальным состоянием приложения
 
 ⚡ Сборка и инструменты
 <p> <img src="https://skillicons.dev/icons?i=vite,webpack" /> </p>
 
-⚡ Vite — быстрая разработка и сборка
-📦 Webpack — конфигурация сборщика, loaders и plugins
-🔥 HMR — обновление приложения без полной перезагрузки
+⚡ Vite — быстрая разработка и сборка<br/>
+📦 Webpack — конфигурация сборщика, loaders и plugins<br/>
+🔥 HMR — обновление приложения без полной перезагрузки<br/>
 🧩 Code Splitting и работа с ресурсами
 
 🧪 Тестирование
@@ -33,11 +33,11 @@
 🔧 Инструменты
 <p> <img src="https://skillicons.dev/icons?i=git,github,docker,npm,vscode" /> </p>
 
-🌿 Git / GitHub / Gitlab — контроль версий и работа с репозиториями
-🐳 Docker — контейнеризация приложений
-📦 npm — управление зависимостями
-🧹 ESLint / Prettier — качество и форматирование кода
-🔌 REST API — работа с API, HTTP и JSON
+🌿 Git / GitHub / Gitlab — контроль версий и работа с репозиториями<br/>
+🐳 Docker — контейнеризация приложений<br/>
+📦 npm — управление зависимостями<br/>
+🧹 ESLint / Prettier — качество и форматирование кода<br/>
+🔌 REST API — работа с API, HTTP и JSON<br/>
 🛠️ VS Code — основная среда разработки
 
 
@@ -52,11 +52,10 @@
 🚀 Постоянное развитие
 📊 GitHub статистика
 
-<p> <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 🤝 Связь
 
 Открыт к интересным frontend-проектам, новым технологиям и возможностям профессионального развития.
 
-telegram: @tipo_fatale
+telegram: @tipo_fatale<br/>
 email: w3kill4h@gmail.com
