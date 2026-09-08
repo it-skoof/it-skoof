@@ -54,5 +54,5 @@
 
 ### 🤝 Связь
 Открыт к интересным frontend-проектам, новым технологиям и возможностям профессионального развития.<br/>
-📮 telegram:[@tipo_fatale](https://t.me/@tipo_fatale)<br/>
-💌 email: w3kill4h@gmail.com
+📮 telegram:[@tipo_fatale](https://t.me/tipo_fatale)<br/>
+💌 email: <a href="mailto:w3kill4h@gmail.com">w3kill4h@gmail.com</a> || <a href="mailto:blxxps@yandex.ru">blxxps@yandex.ru</a>
